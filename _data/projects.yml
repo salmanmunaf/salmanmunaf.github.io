@@ -1,8 +1,35 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  name: Data Leakage in Job Search Services
+  # link: github.com/sproogen
+  # github: sproogen/resume-theme
+  # quote: >
+    # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Performed a systematic study of how users’ personally identifiable information (PII) is leaked in job search services. Surprisingly, our experimental results show that elaborate user profiles can be reconstructed via large-scale user sensitive data harvesting.
+
+- layout: top-middle
+  name: SmarTOR
+  # link: github.com/sproogen
+  # github: sproogen/resume-theme
+  # quote: >
+    # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Designed, implemented, and evaluated a new Tor client SmarTOR, to demonstrate that significant latency gains can be achieved without compromising user anonymity. Our measurements show that SmarTOR can deliver up to 60.9% reduction in median page load times compared to Tor while justrequiring client-side changes.
+
+- layout: top-middle
+  name: Campus Connect
+  # link: github.com/sproogen
+  # github: sproogen/resume-theme
+  # quote: >
+    # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Developed a mobile application using the React Native framework which allows students to share lecture notes of different courses, give instructor reviews and communicate with students of similar interests.
+
+- layout: top-middle
+  name: Distributed Search Engine
+  # link: github.com/sproogen
+  # github: sproogen/resume-theme
+  # quote: >
+    # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Created a distributed search engine using Python and socket interface. A master node assigns search tasks to the worker nodes, and they return the search results which are compiled and displayed to the user by the master node.
